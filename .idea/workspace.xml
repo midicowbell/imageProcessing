@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60d2ddaf-0463-4b77-96bc-3026dad9d136" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/images/img_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sar_0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sar_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sar_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/imageProcessing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/imageProcessing.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab3.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,18 +50,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "lab3",
-    "last_opened_file_path": "C:/Users/frage/PycharmProjects/imageProcessing/images",
-    "nodejs_package_manager_path": "npm",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;lab3&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/frage/PycharmProjects/imageProcessing/images&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\frage\PycharmProjects\imageProcessing\images" />
